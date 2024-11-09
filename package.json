@@ -1,6 +1,6 @@
 {
   "homepage": "https://blacktagdevs.github.io/",
-  "name": "blacktagdevs-landing",
+  "name": "LandingPage",
   "version": "1.2.2",
   "private": true,
   "dependencies": {
