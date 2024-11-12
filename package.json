@@ -1,5 +1,5 @@
 {
-  "homepage": "https://blacktagdevs.github.io/LandingPage",
+  "homepage": "/LandingPage",
   "version": "1.2.2",
   "private": true,
   "dependencies": {
