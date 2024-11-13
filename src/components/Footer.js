@@ -29,7 +29,7 @@ import {
   UncontrolledTooltip,
 } from "reactstrap";
 
-export default function DemoFooter() {
+export default function Footer() {
   return (
     <>
       <footer className="footer">
@@ -39,7 +39,7 @@ export default function DemoFooter() {
               <h1 className="title">
                 BlackTagDevs
                 <img
-                  src={require("assets/blacktag/simpleLogo.png")}
+                  src={require("../assets/blacktag/simpleLogo.png")}
                   alt=""
                   style={{ filter: "invert(1)", scale: "0.5" }}
                 />

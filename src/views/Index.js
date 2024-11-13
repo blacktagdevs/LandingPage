@@ -1,42 +1,9 @@
-/*!
-
-=========================================================
-* BLK Design System PRO React - v1.2.2
-=========================================================
-
-* Product Page: https://www.creative-tim.com/product/blk-design-system-pro-react
-* Copyright 2023 Creative Tim (https://www.creative-tim.com)
-
-* Coded by Creative Tim
-
-=========================================================
-
-* The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-*/
 import React from "react";
 
 // core components
-import ColorNavbar from "components/Navbars/ColorNavbar.js";
-import IndexHeader from "components/Headers/IndexHeader.js";
-import DemoFooter from "components/Footers/DemoFooter.js";
+import IndexHeader from "../components/IndexHeader.js";
+import Footer from "../components/Footer.js";
 
-// Sections for this page
-// (we've divided this page into multiple react components to make it a bit more readable)
-import Basic from "./IndexSections/Basic.js";
-import Navbars from "./IndexSections/Navbars.js";
-import Tabs from "./IndexSections/Tabs.js";
-import Pills from "./IndexSections/Pills.js";
-import Pagination from "./IndexSections/Pagination.js";
-import Notifications from "./IndexSections/Notifications.js";
-import PreFooter from "./IndexSections/PreFooter.js";
-import Footers from "./IndexSections/Footers.js";
-import Typography from "./IndexSections/Typography.js";
-import ContentAreas from "./IndexSections/ContentAreas.js";
-import Cards from "./IndexSections/Cards.js";
-import PlainCards from "./IndexSections/PlainCards.js";
-import JavaScript from "./IndexSections/JavaScript.js";
-import NucleoIcons from "./IndexSections/NucleoIcons.js";
 import Teams from "views/SectionsSections/Teams.js";
 import ContactUs from "./SectionsSections/ContactUs.js";
 import Features from "./SectionsSections/Features.js";
@@ -61,7 +28,7 @@ export default function Index() {
           <Features />
           <ContactUs />
         </div>
-        <DemoFooter />
+        <Footer />
       </div>
     </>
   );
