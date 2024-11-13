@@ -1,0 +1,128 @@
+@import "black-tag-devs/custom/functions";
+@import "bootstrap/scss/functions";
+
+@import "black-tag-devs/variables";
+@import "bootstrap/scss/variables";
+
+@import "black-tag-devs/custom/mixins";
+@import "bootstrap/scss/mixins";
+
+// Bootstrap components
+
+@import "bootstrap/scss/root";
+@import "bootstrap/scss/reboot";
+@import "bootstrap/scss/type";
+@import "bootstrap/scss/images";
+@import "bootstrap/scss/code";
+@import "bootstrap/scss/grid";
+@import "bootstrap/scss/tables";
+@import "bootstrap/scss/forms";
+@import "bootstrap/scss/buttons";
+@import "bootstrap/scss/transitions";
+@import "bootstrap/scss/dropdown";
+@import "bootstrap/scss/button-group";
+@import "bootstrap/scss/input-group";
+@import "bootstrap/scss/custom-forms";
+@import "bootstrap/scss/nav";
+@import "bootstrap/scss/navbar";
+@import "bootstrap/scss/card";
+@import "bootstrap/scss/breadcrumb";
+@import "bootstrap/scss/pagination";
+@import "bootstrap/scss/badge";
+@import "bootstrap/scss/jumbotron";
+@import "bootstrap/scss/alert";
+@import "bootstrap/scss/progress";
+@import "bootstrap/scss/media";
+@import "bootstrap/scss/list-group";
+@import "bootstrap/scss/close";
+@import "bootstrap/scss/modal";
+@import "bootstrap/scss/tooltip";
+@import "bootstrap/scss/popover";
+@import "bootstrap/scss/carousel";
+@import "bootstrap/scss/utilities";
+@import "bootstrap/scss/print";
+
+// Custom components
+
+@import "black-tag-devs/custom/alerts.scss";
+@import "black-tag-devs/custom/buttons.scss";
+@import "black-tag-devs/custom/dropdown.scss";
+@import "black-tag-devs/custom/footer.scss";
+@import "black-tag-devs/custom/forms.scss";
+@import "black-tag-devs/custom/images.scss";
+@import "black-tag-devs/custom/modal.scss";
+@import "black-tag-devs/custom/navbar.scss";
+@import "black-tag-devs/custom/type.scss";
+@import "black-tag-devs/custom/icons.scss";
+@import "black-tag-devs/custom/checkboxes-radio";
+@import "black-tag-devs/custom/fixed-plugin";
+@import "black-tag-devs/custom/pagination.scss";
+@import "black-tag-devs/custom/misc.scss";
+@import "black-tag-devs/custom/rtl.scss";
+@import "black-tag-devs/custom/input-group.scss";
+@import "black-tag-devs/custom/progress.scss";
+@import "black-tag-devs/custom/badge.scss";
+@import "black-tag-devs/custom/pills.scss";
+@import "black-tag-devs/custom/tabs.scss";
+@import "black-tag-devs/info-areas.scss";
+@import "black-tag-devs/misc-extend.scss";
+@import "black-tag-devs/sections-extend.scss";
+@import "black-tag-devs/footers.scss";
+@import "black-tag-devs/tables.scss";
+
+// Pro components
+
+@import "black-tag-devs/example-pages.scss";
+@import "black-tag-devs/social-buttons.scss";
+@import "black-tag-devs/media.scss";
+@import "black-tag-devs/modals-extend.scss";
+@import "black-tag-devs/navbar-extend.scss";
+@import "black-tag-devs/buttons-extend.scss";
+@import "black-tag-devs/pills-extend.scss";
+@import "black-tag-devs/dropdown-extend.scss";
+
+// Sections
+@import "black-tag-devs/custom/sections.scss";
+
+// Vendor / Plugins
+
+@import "black-tag-devs/custom/vendor/plugin-perfect-scrollbar.scss";
+@import "black-tag-devs/custom/vendor/plugin-animate-bootstrap-notify.scss";
+@import "black-tag-devs/custom/vendor/plugin-bootstrap-switch.scss";
+@import "black-tag-devs/custom/vendor/plugin-nouislider.scss";
+@import "black-tag-devs/custom/vendor/plugin-datetimepicker.scss";
+@import "black-tag-devs/plugins/plugin-tagsinput.scss";
+@import "black-tag-devs/plugins/plugin-bootstrap-select";
+@import "black-tag-devs/plugins/plugin-jasny-fileupload.scss";
+@import "black-tag-devs/plugins/plugin-carousel-slick.scss";
+
+// Cards
+
+@import "black-tag-devs/custom/card";
+@import "black-tag-devs/custom/cards/card-chart";
+@import "black-tag-devs/custom/cards/card-map";
+@import "black-tag-devs/custom/cards/card-user";
+@import "black-tag-devs/custom/cards/card-task";
+@import "black-tag-devs/custom/cards/card-plain";
+@import "black-tag-devs/custom/cards/card-register";
+@import "black-tag-devs/custom/cards/card-stats";
+@import "black-tag-devs/custom/cards/card-chart";
+@import "black-tag-devs/cards/card-background";
+@import "black-tag-devs/cards/card-blog";
+@import "black-tag-devs/cards/card-profile";
+@import "black-tag-devs/cards/card-pricing";
+@import "black-tag-devs/cards/card-login";
+@import "black-tag-devs/cards/card-testimonials";
+@import "black-tag-devs/cards/card-product";
+
+// Avatars
+
+@import "black-tag-devs/avatars/avatar-group";
+@import "black-tag-devs/avatars/avatar";
+
+// Responsive
+
+@import "black-tag-devs/responsive";
+
+// React Differences
+@import "black-tag-devs/react/react-differences";

@@ -35,7 +35,7 @@ export default function Index() {
             <h1 className="h1-seo">
               BlackTagDevs{" "}
               <img
-                src={require("assets/blacktag/simpleLogo.png")}
+                src={require("../assets/blacktag/simpleLogo.png")}
                 alt=""
                 style={{ filter: "invert(1)" }}
               />
