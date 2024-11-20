@@ -32,12 +32,30 @@ export default function Index() {
         <div className="squares square7" />
         <Container>
           <div className="content-center brand">
-            <h1 className="h1-seo">
-              BlackTagDevs{" "}
+            <h1
+              className="h1-seo"
+              style={{
+                fontSize: "4em",
+                display: "flex",
+                justifyContent: "center",
+                alignItems: "baseline",
+                columnGap: "6px",
+              }}
+            >
+              BlackTagDevs
+              {/* <img
+                src={require("assets/blacktag/simpleLogo.png")}
+                alt=""
+                style={{ filter: "invert(1)", height: "auto" }}
+              /> */}
               <img
                 src={require("assets/blacktag/simpleLogo.png")}
                 alt=""
-                style={{ filter: "invert(1)" }}
+                style={{
+                  filter: "invert(1)",
+                  height: "auto",
+                  maxWidth: "1em",
+                }}
               />
             </h1>
             <h3>Information technology consulting</h3>
