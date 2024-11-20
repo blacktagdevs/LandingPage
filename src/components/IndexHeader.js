@@ -43,11 +43,6 @@ export default function Index() {
               }}
             >
               BlackTagDevs
-              {/* <img
-                src={require("assets/blacktag/simpleLogo.png")}
-                alt=""
-                style={{ filter: "invert(1)", height: "auto" }}
-              /> */}
               <img
                 src={require("../assets/blacktag/simpleLogo.png")}
                 alt=""
