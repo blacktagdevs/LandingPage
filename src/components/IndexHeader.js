@@ -35,7 +35,7 @@ export default function Index() {
             <h1
               className="h1-seo"
               style={{
-                fontSize: "4em",
+                fontSize: "3em",
                 display: "flex",
                 justifyContent: "center",
                 alignItems: "baseline",
