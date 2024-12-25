@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.43d07e49.css",
-    "main.js": "/static/js/main.b67a49f8.js",
+    "main.css": "/static/css/main.ba5316e2.css",
+    "main.js": "/static/js/main.68b089a7.js",
     "static/media/pawel-nolbert.jpg": "/static/media/pawel-nolbert.8d44cda36f22520ed146.jpg",
     "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
     "static/media/darken-night-sky-full-of-stars-fantasy-animation-made-of-magical-sparkly-light-particles-flickering-on-a-purple-blue-gradient-background_bajacpz7x_thumbnail-full01.png": "/static/media/darken-night-sky-full-of-stars-fantasy-animation-made-of-magical-sparkly-light-particles-flickering-on-a-purple-blue-gradient-background_bajacpz7x_thumbnail-full01.049a2cd26a85856a45e6.png",
@@ -21,12 +21,12 @@
     "static/media/square4.png": "/static/media/square4.a3f639df79bad0e79d99.png",
     "static/media/square5.png": "/static/media/square5.6d2ad2cb2994f5244aeb.png",
     "static/media/fa-brands-400.woff2": "/static/media/fa-brands-400.e033a13ee751afc1860c.woff2",
+    "static/media/bosun.jpeg": "/static/media/bosun.1f4a1f4fbf53dc1fe18f.jpeg",
     "static/media/cam.jpeg": "/static/media/cam.2b87795093d748be0e4b.jpeg",
     "static/media/amex.png": "/static/media/amex.6717582611e9ecfa016f.png",
     "static/media/jamar.jpeg": "/static/media/jamar.8e25b07a4d888380e117.jpeg",
     "static/media/fa-regular-400.ttf": "/static/media/fa-regular-400.d87474231f4192884802.ttf",
     "static/media/ruvim-noga.jpg": "/static/media/ruvim-noga.dd3230baf2af0c9af7d6.jpg",
-    "static/media/ryan.jpg": "/static/media/ryan.0078f11f1dff0fed0628.jpg",
     "static/media/path2.png": "/static/media/path2.2f0ee6e42fa915937a48.png",
     "static/media/nucleo.eot": "/static/media/nucleo.bd5cce8bf40be5947637.eot",
     "static/media/nucleo.ttf": "/static/media/nucleo.35b08447277ca7bf9f09.ttf",
@@ -39,7 +39,7 @@
     "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.43d07e49.css",
-    "static/js/main.b67a49f8.js"
+    "static/css/main.ba5316e2.css",
+    "static/js/main.68b089a7.js"
   ]
 }
